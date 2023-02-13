@@ -17,8 +17,20 @@ A curated and **opinionated** list of resources for startup founders and leaders
 
 ## Fundraising
 
- * [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) - YCombinator. Probably the best guide.
- * ..
+ * [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) - YCombinator. Good starting point.
+ * [A Playbook for Fundraising](https://www.lennysnewsletter.com/p/a-playbook-for-fundraising?triedSigningIn=true) - [Lenny Rachitsky](https://twitter.com/lennysan). Great summary.
+ * [The Startup Fundraising Playbook](https://www.docsend.com/index/startup-fundraising/) - from Dropbox
+ * [How to raise money before launch](https://medium.com/@zebulgar/how-to-raise-money-before-launch-a3544ef4dba6) - from Khosla Ventures
+ * [How I got 50 high-profile angel investors to join our seed round](https://www.mentava.com/blog/how-i-got-50-high-profile-angel-investors-to-join-our-seed-round)
+ * [What does it take to raise capital, in SaaS, in 2022?](https://medium.com/point-nine-news/what-does-it-take-to-raise-capital-in-saas-in-2022-7ebe55c86e3e)
+ * [How to Raise Money for Your Startup](https://noise.beehiiv.com/p/how-to-raise-money-for-your-startup) - [Alex Banks](https://twitter.com/thealexbanks)
+ * [30 Legendary Startup Pitch Decks and What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
+ * [How to pitch to a VC](https://www.ted.com/talks/david_s_rose_how_to_pitch_to_a_vc) - David Rose
+
+### Angels directories
+ * [First Round Capital](https://angels.firstround.com)
+ * [NFX list](https://signal.nfx.com)
+ * [funden](https://funden.com)
 
 
 ## Other
