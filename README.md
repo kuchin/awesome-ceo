@@ -7,8 +7,18 @@
 
 A curated and **opinionated** list of resources for startup founders and leaders of high-growth companies.
 
+📢 [Subscribe to get updates](https://awesomeceo.substack.com/)
 
-##
+
+## Contents
+
+ * [Fundraising](#fundraising)
+
+
+## Fundraising
+
+ * [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) - YCombinator. Probably the best guide.
+ * ..
 
 
 ## Other
