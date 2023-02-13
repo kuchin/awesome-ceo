@@ -13,6 +13,7 @@ A curated and **opinionated** list of resources for startup founders and leaders
 ## Contents
 
  * [Fundraising](#fundraising)
+ * [Books](#books)
 
 
 ## Fundraising
@@ -25,7 +26,7 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [What does it take to raise capital, in SaaS, in 2022?](https://medium.com/point-nine-news/what-does-it-take-to-raise-capital-in-saas-in-2022-7ebe55c86e3e)
  * [How to Raise Money for Your Startup](https://noise.beehiiv.com/p/how-to-raise-money-for-your-startup) - by Alex Banks [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/thealexbanks)
  * [30 Legendary Startup Pitch Decks and What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
- * ![youtube](https://socialize-md.vercel.app/api/badge/youtube) [How to pitch to a VC](https://www.ted.com/talks/david_s_rose_how_to_pitch_to_a_vc) - by David Rose [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/davidsrose)
+ * ![youtube](https://socialize-md.vercel.app/api/badge/youtube) [How to pitch to a VC](https://www.ted.com/talks/david_s_rose_how_to_pitch_to_a_vc) - by David S. Rose [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/davidsrose)
 
 ### Angels directories
  * [First Round Capital](https://angels.firstround.com) 💰
@@ -33,9 +34,9 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [funden](https://funden.com) 💰
 
 ## Books
- * 📕 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA)
- * 📕 First Things First
- * 📕 Seven Habits
+ * 📕 [The Hard Thing About Hard Things](https://amzn.com/dp/B00DQ845EA) - by Ben Horowitz
+ * 📕 [First Things First](https://amzn.com/dp/B00V1XGKJK) - by Stephen Covey
+ * 📕 [The 7 Habits of Highly Effective People](https://amzn.com/dp/B07WF972WK) - by Stephen Covey. Despite it's title, very smart and actionable.
  * 📕 Cold Start
  * 📕 Atomic Habits
  * 📕 Thinking Fast and Slow
