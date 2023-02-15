@@ -12,8 +12,15 @@ A curated and **opinionated** list of resources for startup founders and leaders
 
 ## Contents
 
+ * [Product-Market Fit](#product-market-fit)
  * [Fundraising](#fundraising)
  * [Books](#books)
+ * [More links](#more-links)
+
+
+## Product-Market Fit
+
+ * [12 Things About Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit-2/) - a16z
 
 
 ## Fundraising
@@ -29,6 +36,11 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [How to Raise Money for Your Startup](https://noise.beehiiv.com/p/how-to-raise-money-for-your-startup) - Alex Banks [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/thealexbanks)
  * [30 Legendary Startup Pitch Decks and What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
  * ![youtube](https://socialize-md.vercel.app/api/badge/youtube) [How to pitch to a VC](https://www.ted.com/talks/david_s_rose_how_to_pitch_to_a_vc) - David S. Rose [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/davidsrose)
+
+### Fundraising tools
+ * [Startup Equity Dilution Calculator](https://www.capboard.io/en/captable/equity-dilution-calculator)
+ * [Startup Economics Calculator](https://smartasset.com/infographic/startup)
+
 
 ### Angels directories
  * [First Round Capital](https://angels.firstround.com) 💰
@@ -54,6 +66,12 @@ A curated and **opinionated** list of resources for startup founders and leaders
    A framework for conducting effective customer interviews and building products that people actually want to use. How to validate your ideas without relying on false positives or biased feedback.
  * 📕 [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://amzn.com/dp/B00DQ97TWO) - Bill Aulet [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/BillAulet) <br>
    A framework for developing and testing innovative business ideas, from identifying customer needs and segmenting markets, to prototyping and testing solutions, to launching and scaling a successful venture.
+
+
+## More links
+
+ * [Go-To Startup Resources](https://learningloop.notion.site/learningloop/Go-To-Startup-Resources-28954916f3ad4445be7e713554bc6a8b)
+ * [Learn with Sherpa](https://www.learnwithsherpa.com) - Alex Lieberman [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/businessbarista)
 
 
 ## Other
