@@ -17,6 +17,9 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [Product](#product)
  * [Sales](#sales)
  * [Marketing](#marketing)
+ * [Management](#management)
+ * [Hiring](#hiring)
+ * [Finance](#finance)
  * [Books](#books)
  * [More links](#more-links)
 
@@ -38,6 +41,10 @@ A curated and **opinionated** list of resources for startup founders and leaders
    The single hardest question at the pre-seed and seed stage for a founder is knowing whether to persist on the current product or to move on to the next idea.
  * [Option grants at seed round](https://www.indexventures.com/rewardingtalent/how-much-and-who-gets-it) - Index Ventures
  * [How Startup Funding Works](https://www.linkedin.com/posts/herwigspringer_founder-investor-venturecapital-activity-7000525239516319744-iDS_/)
+ * [IPOs and Beyond: A Guide to Exit Options for Companies](https://future.a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies/) - a16z
+ * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup)
+ * [Options vs Cash](https://danluu.com/startup-options/) - Dan Luu [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/danluu)
+ * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/sama)
 
 ### Fundraising tools
  * [Startup Equity Dilution Calculator](https://www.capboard.io/en/captable/equity-dilution-calculator)
@@ -102,6 +109,37 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [How today's fastest growing B2B businesses found their first ten customers](https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses) - Lenny Rachitsky [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/lennysan)
 
 
+## Management
+
+ * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup)
+ * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/paulg)
+ * [The Secret To Discussing Pay With Employees](https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees)
+ * ![github](https://socialize-md.vercel.app/api/badge/github) [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
+ * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3) - Keith Rabois [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/rabois)
+ * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/) 
+ * [10,000 Hours with Reid Hoffman: What I Learned](https://casnocha.com/reid-hoffman-lessons)
+ * [7 Ways to Set Up a New Hire for Success](https://hbr.org/2019/05/7-ways-to-set-up-a-new-hire-for-success)
+ * [Individuals matter](https://danluu.com/people-matter/) - Dan Luu [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/danluu)
+ * [Mandate Levels](https://cutlefish.substack.com/p/tbm-2752-mandate-levels) - John Cutler [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/johncutlefish)
+ * [10 ideas for building great culture in a distributed (remote) team](https://twitter.com/nathanbarry/status/1520442729397858304) - Nathan Barry [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/nathanbarry)
+ * [Adapting to Endure / Crisis management](https://www.sequoiacap.com/adapting-to-endure-2022/) - Sequoia Capital
+
+
+## Hiring
+
+ * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
+ * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
+ * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
+
+
+## Finance
+
+ * [Financial Planning & Analysis](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/) - GitLab
+ * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
+ * [Negotiate the right deal with suppliers](https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/)
+ * [Strategic Procurements 10 Commandments for Managing the Buying Process](https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/)
+
+
 ## Books
 
  * 📕 [The Hard Thing About Hard Things](https://amzn.com/dp/B00DQ845EA) - Ben Horowitz <br>
@@ -122,6 +160,7 @@ A curated and **opinionated** list of resources for startup founders and leaders
    A framework for conducting effective customer interviews and building products that people actually want to use. How to validate your ideas without relying on false positives or biased feedback.
  * 📕 [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://amzn.com/dp/B00DQ97TWO) - Bill Aulet [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/BillAulet) <br>
    A framework for developing and testing innovative business ideas, from identifying customer needs and segmenting markets, to prototyping and testing solutions, to launching and scaling a successful venture.
+ * 📕 [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) - Matt Mochary [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/mattmochary)
 
 
 ## More links
