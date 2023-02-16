@@ -169,6 +169,7 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [Advices from founders](https://foundr.com/articles) - foundr
  * [Learn with Sherpa](https://www.learnwithsherpa.com) - Alex Lieberman [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/businessbarista)
  * ![github](https://socialize-md.vercel.app/api/badge/github) [Awesome startup tools list](https://github.com/Ibexoft/awesome-startup-tools-list)
+ * ![github](https://socialize-md.vercel.app/api/badge/github) [Awesome books, videos, courses and resources about making a startup](https://github.com/KrishMunot/awesome-startup)
  * [Go-To Startup Resources](https://learningloop.notion.site/learningloop/Go-To-Startup-Resources-28954916f3ad4445be7e713554bc6a8b)
 
 
