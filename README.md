@@ -13,8 +13,10 @@ A curated and **opinionated** list of resources for startup founders and leaders
 ## Contents
 
  * [Fundraising](#fundraising)
+ * [Entrepreneurship](#entrepreneurship)
  * [Product](#product)
  * [Sales](#sales)
+ * [Marketing](#marketing)
  * [Books](#books)
  * [More links](#more-links)
 
@@ -35,6 +37,7 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [Pre-seed and seed founder's hardest question](https://www.linkedin.com/posts/adityaagarwal3_the-single-hardest-question-at-the-pre-seed-activity-7021553572609744896-XEue/) - Aditya Agarwal [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/adityaag)<br>
    The single hardest question at the pre-seed and seed stage for a founder is knowing whether to persist on the current product or to move on to the next idea.
  * [Option grants at seed round](https://www.indexventures.com/rewardingtalent/how-much-and-who-gets-it) - Index Ventures
+ * [How Startup Funding Works](https://www.linkedin.com/posts/herwigspringer_founder-investor-venturecapital-activity-7000525239516319744-iDS_/)
 
 ### Fundraising tools
  * [Startup Equity Dilution Calculator](https://www.capboard.io/en/captable/equity-dilution-calculator)
@@ -47,7 +50,24 @@ A curated and **opinionated** list of resources for startup founders and leaders
  
 ### Startup decks
  * [30 Legendary Startup Pitch Decks and What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
+ * [Pitch deck collection from VC funded startups](https://www.alexanderjarvis.com/pitch-deck-collection-from-vc-funded-startups/)
  * [Startup decks collection](https://startupdecks.co/decks/)
+
+
+## Entrepreneurship
+
+ * [What are the things startups have to get right?](https://www.quora.com/What-are-the-things-startups-have-to-get-right)
+ * [85 Things I learned being a CEO](https://hackernoon.com/85-things-i-learned-being-a-ceo-4c25fc1c7b99)
+ * [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/) - Y Combinator
+ * [Things I will tell my kids if they become entrepreneurs](https://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
+ * [What do VCs really look for when making investments?](https://www.quora.com/What-do-VCs-really-look-for-when-making-investments)
+ * [As an employee of a startup, how do you know when to quit?](https://www.quora.com/As-an-employee-of-a-startup-how-do-you-know-when-to-quit)
+ * [YC’s Series A Diligence Checklist](https://blog.ycombinator.com/ycs-series-a-diligence-checklist/) - Y Combinator
+ * [Startup Playbook](https://playbook.samaltman.com) - Sam Altman [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/sama)
+ * [Startup Class](https://startupclass.samaltman.com) - Sam Altman
+ * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
+ * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
+ * ![github](https://socialize-md.vercel.app/api/badge/github) [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot)
 
 
 ## Product
@@ -58,6 +78,10 @@ A curated and **opinionated** list of resources for startup founders and leaders
     - Usable – Easy to figure out how to use
     - Feasible – Buildable using the technology stack and skills we have
     - Viable – Workable for our stakeholders within our budget, legal, ethical, and reputational constraints
+ * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/answers/Article/3143488/How-to-Find-Profitable-Business-Ideas)
+ * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
+ * [Most Startups Should Be Deer Hunters](https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6) - Mark Suster [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/msuster)
+ * [8 Product Hurdles Every Founder Must Clear](https://review.firstround.com/8-product-hurdles-every-founder-must-clear-this-pm-turned-founder-shares-his-playbooks) - First Round Capital
 
 ### Product-Market Fit
 
@@ -67,6 +91,15 @@ A curated and **opinionated** list of resources for startup founders and leaders
 ## Sales
 
  * [Your first 10 customers](https://stripe.com/en-in/guides/atlas/starting-sales) - Stripe
+
+
+## Marketing
+
+ * [Get creative with your marketing](https://www.linkedin.com/posts/kevinleeme_marketing-growth-business-activity-7002752700526256129-5Wsi/)
+ * [Developer Marketing Guide](https://www.devmarketingguide.com)
+ * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
+ * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
+ * [How today's fastest growing B2B businesses found their first ten customers](https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses) - Lenny Rachitsky [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/lennysan)
 
 
 ## Books
@@ -93,6 +126,8 @@ A curated and **opinionated** list of resources for startup founders and leaders
 
 ## More links
 
+ * [The Founder Library](https://www.nfx.com) - NfX
+ * [Advices from founders](https://foundr.com/articles) - foundr
  * [Learn with Sherpa](https://www.learnwithsherpa.com) - Alex Lieberman [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/businessbarista)
  * ![github](https://socialize-md.vercel.app/api/badge/github) [Awesome startup tools list](https://github.com/Ibexoft/awesome-startup-tools-list)
  * [Go-To Startup Resources](https://learningloop.notion.site/learningloop/Go-To-Startup-Resources-28954916f3ad4445be7e713554bc6a8b)
